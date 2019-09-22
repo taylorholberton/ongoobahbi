@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://utikoothoc.inweee.top/sitemap.xml
